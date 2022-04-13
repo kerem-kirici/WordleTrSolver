@@ -33,10 +33,6 @@ The first guess may take about 30 seconds to compute so you may need to wait for
       Your Guess: serak
       Output: 2 1 1 0 0
 
-      Best Options: ['serak', 'merak', 'kelam', 'tarik', 'kamer', 'kalem', 'kemal', 'kenar', 'ketal', 'keman']
-      Your Guess: serak
-      Output: 2 1 1 0 0
-
       Best Options: ['süper', 'siper', 'sümer', 'siyer', 'sütre', 'sperm']
       Your Guess: süper
       Output: 2 2 2 2 2
